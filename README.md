@@ -31,12 +31,12 @@ Here are some ideas to get you started:
             <td><a href="https://github.com/tomemme/screeps">Screeps</a> - Code base for my Screeps world</td>
         </tr>
          <tr>
-            <td><a href="https://github.com/eust-w/ltrobot-mimiwechat">Research</a> - Web scraping script for informational sources</td>
-            <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">Graph</a> - rust websev. hosting a graph of BTC vs AI power consumption</td>
+            <td><a href="https://github.com/tomemme/cannaResearch">Research</a> - Web scraping script for informational sources</td>
+            <td><a href="https://github.com/tomemme/web_server">Graph</a> - rust websev. hosting a graph of BTC vs AI power consumption</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/eust-w/qcow2file">URLcategorizer</a> - my first real program, written in JAVA</td>
-            <td><a href="https://github.com/eust-w/aiPlatform">MMT</a> - a Flutter app concept created for my graduation project</td>
+            <td><a href="https://github.com/tomemme/urlCategorizer">URLcategorizer</a> - my first real program, written in JAVA</td>
+            <td><a href="https://github.com/tomemme/mmt">MMT</a> - a Flutter app concept created for my graduation project</td>
         </tr>
     </table>
 </div>

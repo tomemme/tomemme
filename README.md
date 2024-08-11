@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <table align="center">
         <tr>
             <td><a href="https://github.com/tomemme/EncryptedJournal">EncryptedJournal</a> - An encrypted Journal program</td>
-            <td><a href="https://github.com/eust-w/esh">SubCleanup</a> - YouTube subscription cleanup script</td>
+            <td><a href="https://github.com/tomemme/ytSubCleanup">SubCleanup</a> - YouTube subscription cleanup script</td>
         </tr>
         <tr>
             <td><a href="https://github.com/tomemme/bad_ideas_website">BadIdeas</a> - A website to store your bad ideas</td>

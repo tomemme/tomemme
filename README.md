@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <h3>Hi 👋, I'm <a href="https://github.com/tomemme/portfolio">TomEmmE</a></h3>
     <p align="center">
         <a href="https://github.com/tomemme/portfolio">
-            <img src="cat.webp" width="50"/> 
+            <img src="cat.gif" width="50"/> 
         </a>
     </p>
     <p>✨ Welcome to my wierd space on the net! ✨</p>
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
             <td><a href="https://github.com/tomemme/screeps">Screeps</a> - Code base for my Screeps world</td>
         </tr>
          <tr>
-            <td><a href="https://github.com/eust-w/ltrobot-mimiwechat">Research</a> - Web scraping script for Medical|Scholar|Academic sources</td>
-            <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">Graph</a> - a rust webserver hosting a grpah of BTC vs AI power consumption</td>
+            <td><a href="https://github.com/eust-w/ltrobot-mimiwechat">Research</a> - Web scraping script for informational sources</td>
+            <td><a href="https://github.com/eust-w/gnome-extension-wakwaka">Graph</a> - rust websev. hosting a graph of BTC vs AI power consumption</td>
         </tr>
         <tr>
             <td><a href="https://github.com/eust-w/qcow2file">URLcategorizer</a> - my first real program, written in JAVA</td>

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <h3>Hi 👋, I'm <a href="https://github.com/tomemme/portfolio">TomEmmE</a></h3>
     <p align="center">
         <a href="https://github.com/tomemme/portfolio">
-            <img src="cat.gif" width="50"/> 
+            <img src="cat.webp" width="50"/> 
         </a>
     </p>
     <p>✨ Welcome to my wierd space on the net! ✨</p>

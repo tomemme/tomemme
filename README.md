@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td>[![Dystopian Hacker](https://raw.githubusercontent.com/tomemme/tomemme/main/dystopian_hacker.webp)](https://raw.githubusercontent.com/tomemme/tomemme/main/dystopian_hacker.webp)Future Ideas in Progress - ....</td>
+            <td>[![Dystopian Hacker](https://raw.githubusercontent.com/tomemme/tomemme/main/dystopian_hacker.webp)] Future Ideas in Progress - ....</td>
             <td><a href="https://github.com/tomemme/followersLanguages">Multilingual</a> - Grapgh of your GH followers most used Language</td>
         </tr>
         <tr>

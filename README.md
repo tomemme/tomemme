@@ -21,34 +21,30 @@ Here are some ideas to get you started:
     </p>
     <p>✨ Welcome to my wierd space on the net! ✨</p>
     <h4 align="left">My Open Source Projects</h4>
-    <table align="center">
-        <tr>
-            <td style="background-color: green; color white;">
-                <a href="https://raw.githubusercontent.com/tomemme/tomemme/main/dystopianhacker2.webp" stlye="color: white;">Dystopian Hacker</a> 
-                    - Future Ideas in Progress....</td>
-            <td style="background-color: green; color white;">
-                <a href="https://github.com/tomemme/followersLanguages" stlye="color: white;">Multilingual</a>
-                - Grapgh of your GH followers most used Language</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/tomemme/EncryptedJournal">EncryptedJournal</a> - An encrypted Journal program</td>
-            <td><a href="https://github.com/tomemme/ytSubCleanup">SubCleanup</a> - YouTube subscription cleanup script</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/tomemme/HTMLtextSummarizer">HTMLsummarizer</a> - BART model NLP html summarizer</td>
-            <td><a href="https://github.com/tomemme/PhrackSummarizer">Phracksummarizer</a> - BART model NLP Phrack Issue summarizer</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/tomemme/bad_ideas_website">BadIdeas</a> - A website to store your bad ideas</td>
-            <td><a href="https://github.com/tomemme/screeps">Screeps</a> - Code base for my Screeps world</td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/tomemme/cannaResearch">Research</a> - Web scraping script for informational sources</td>
-            <td><a href="https://github.com/tomemme/web_server">Graph</a> - rust websev. hosting a graph of BTC vs AI power consumption</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/tomemme/urlCategorizer">URLcategorizer</a> - my first real program, written in JAVA</td>
-            <td><a href="https://github.com/tomemme/mmt">MMT</a> - a Flutter app concept created for my graduation project</td>
-        </tr>
-    </table>
+<table align="center">
+    <tr>
+        <td>🟢 <a href="https://raw.githubusercontent.com/tomemme/tomemme/main/dystopianhacker2.webp">Dystopian Hacker</a> - Future Ideas in Progress....</td>
+        <td>🟢 <a href="https://github.com/tomemme/followersLanguages">Multilingual</a> - Graph of your GH followers' most used Language</td>
+    </tr>
+    <tr>
+        <td>🟢 <a href="https://github.com/tomemme/EncryptedJournal">EncryptedJournal</a> - An encrypted Journal program</td>
+        <td>🟢 <a href="https://github.com/tomemme/ytSubCleanup">SubCleanup</a> - YouTube subscription cleanup script</td>
+    </tr>
+    <tr>
+        <td>🟠 <a href="https://github.com/tomemme/HTMLtextSummarizer">HTMLsummarizer</a> - BART model NLP html summarizer</td>
+        <td>🔴 <a href="https://github.com/tomemme/PhrackSummarizer">Phracksummarizer</a> - BART model NLP Phrack Issue summarizer</td>
+    </tr>
+    <tr>
+        <td>🟢 <a href="https://github.com/tomemme/bad_ideas_website">BadIdeas</a> - A website to store your bad ideas</td>
+        <td>🟢 <a href="https://github.com/tomemme/screeps">Screeps</a> - Code base for my Screeps world</td>
+    </tr>
+    <tr>
+        <td>🟠 <a href="https://github.com/tomemme/cannaResearch">Research</a> - Web scraping script for informational sources</td>
+        <td>🟢 <a href="https://github.com/tomemme/web_server">Graph</a> - Rust web server hosting a graph of BTC vs AI power consumption</td>
+    </tr>
+    <tr>
+        <td>🟠 <a href="https://github.com/tomemme/urlCategorizer">URLcategorizer</a> - My first real program, written in JAVA</td>
+        <td>🟠 <a href="https://github.com/tomemme/mmt">MMT</a> - A Flutter app concept created for my graduation project</td>
+    </tr>
+</table>
 </div>

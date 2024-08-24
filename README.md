@@ -47,9 +47,8 @@ Here are some ideas to get you started:
         <td>🟠 <a href="https://github.com/tomemme/mmt">MMT</a> - A Flutter app concept created for my graduation project</td>
     </tr>
 </table>
-    
+</div>
 ### Emoji Legend:
 - **🟢 Green**: Ready to clone
 - **🟠 Orange**: Work in progress, may have bugs 
 - **🔴 Red**: Under construction, not ready to clone
-</div>

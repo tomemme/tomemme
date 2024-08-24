@@ -23,8 +23,12 @@ Here are some ideas to get you started:
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://raw.githubusercontent.com/tomemme/tomemme/main/dystopianhacker2.webp"> Dystopian Hacker</a> Future Ideas in Progress....</td>
-            <td><a href="https://github.com/tomemme/followersLanguages">Multilingual</a> - Grapgh of your GH followers most used Language</td>
+            <td style="background-color: green; color white;">
+                <a href="https://raw.githubusercontent.com/tomemme/tomemme/main/dystopianhacker2.webp" stlye="color: white;">Dystopian Hacker</a> 
+                    - Future Ideas in Progress....</td>
+            <td style="background-color: green; color white;">
+                <a href="https://github.com/tomemme/followersLanguages" stlye="color: white;">Multilingual</a>
+                - Grapgh of your GH followers most used Language</td>
         </tr>
         <tr>
             <td><a href="https://github.com/tomemme/EncryptedJournal">EncryptedJournal</a> - An encrypted Journal program</td>

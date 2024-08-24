@@ -31,7 +31,7 @@ Here are some ideas to get you started:
             <td><a href="https://github.com/tomemme/ytSubCleanup">SubCleanup</a> - YouTube subscription cleanup script</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/tomemme/HTMLtextSummarizer">HTMLsummarizer</a> - BART model NLP html summarizer tool</td>
+            <td><a href="https://github.com/tomemme/HTMLtextSummarizer">HTMLsummarizer</a> - BART model NLP html summarizer</td>
             <td><a href="https://github.com/tomemme/PhrackSummarizer">Phracksummarizer</a> - BART model NLP Phrack Issue summarizer</td>
         </tr>
         <tr>

@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     </p>
     <p>✨ Welcome to my wierd space on the net! ✨</p>
     <h4 align="left">My Open Source Projects</h4>
-    <h5 align="left">Emoji Legend</h5>h5>
-    <p>🟢: Ready to clone 🟠: Work in progress, may have bugs 🔴: Under construction, not ready to clone</p>
+    <h5 align="left">Emoji Legend</h5>
+    <p align="left">🟢: Ready to clone 🟠: Work in progress, may have bugs 🔴: Under construction, not ready to clone</p>
 <table align="center">
     <tr>
         <td>🟢 <a href="https://raw.githubusercontent.com/tomemme/tomemme/main/dystopianhacker2.webp">Dystopian Hacker</a> - Future Ideas in Progress....</td>

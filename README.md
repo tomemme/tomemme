@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 <table align="center">
     <tr>
         <td>🟢 <a href="https://raw.githubusercontent.com/tomemme/tomemme/main/dystopianhacker2.webp">Dystopian Hacker</a> - Future Ideas in Progress....</td>
+        <td>🟢 <a href="https://github.com/tomemme/focusedReader">Focused Reader</a> - Chromium browser extension to help readers focus</td>
+    </tr>
+    <tr>
+        <td>🟢 <a href="https://github.com/tomemme/auto_cleanup_task">PC cleanup</a> - Powershell script to clear space</td>
         <td>🟢 <a href="https://github.com/tomemme/followersLanguages">Multilingual</a> - Graph of your GH followers' most used Language</td>
     </tr>
     <tr>

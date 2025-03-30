@@ -35,8 +35,8 @@ Here are some ideas to get you started:
         <td>🟢 <a href="https://github.com/tomemme/ytSubCleanup">SubCleanup</a> - YouTube subscription cleanup script</td>
     </tr>
     <tr>
-        <td>🟠 <a href="https://github.com/tomemme/HTMLtextSummarizer">HTMLsummarizer</a> - BART model NLP html summarizer</td>
-        <td>🔴 <a href="https://github.com/tomemme/PhrackSummarizer">Phracksummarizer</a> - BART model NLP Phrack Issue summarizer</td>
+        <td>🟢 <a href="https://github.com/tomemme/followerTracker">Follower Tracker</a> - Automate GH follower cleanup</td>
+        <td>🟢 <a href="https://github.com/tomemme/focused_reader_desktop">Focus Reader 2.0</a> - Focus Reader desktop PDF reader</td>
     </tr>
     <tr>
         <td>🟢 <a href="https://github.com/tomemme/bad_ideas_website">BadIdeas</a> - A website to store your bad ideas</td>
@@ -49,6 +49,10 @@ Here are some ideas to get you started:
     <tr>
         <td>🟠 <a href="https://github.com/tomemme/urlCategorizer">URLcategorizer</a> - My first real program, written in JAVA</td>
         <td>🟠 <a href="https://github.com/tomemme/mmt">MMT</a> - A Flutter app concept created for my graduation project</td>
+    </tr>
+     <tr>
+        <td>🟠 <a href="https://github.com/tomemme/HTMLtextSummarizer">HTMLsummarizer</a> - BART model NLP html summarizer</td>
+        <td>🔴 <a href="https://github.com/tomemme/PhrackSummarizer">Phracksummarizer</a> - BART model NLP Phrack Issue summarizer</td>
     </tr>
 </table>
     <h5 align="left">Emoji Legend</h5>

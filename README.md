@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <h3>Hi 👋, I'm <a href="https://tomemme.github.io/portfolio/">TomEmmE</a></h3>
+    <h3>Hi 👋, I'm <a href="https://tomemme.com">TomEmmE</a></h3>
     <p align="center">
         <a href="https://github.com/tomemme/portfolio">
             <img src="cathead.webp" width="50"/> 

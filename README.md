@@ -39,8 +39,7 @@ Experimental builder. Quietly opinionated. Usually making something a little too
 ## Other Builds
 
 - [focused_reader_desktop](https://github.com/tomemme/focused_reader_desktop) - desktop follow-up to Focused Reader
-- [time-rs-cli](https://github.com/tomemme/time-rs-cli) - Rust CLI work
-- [bad_ideas_website](https://github.com/tomemme/bad_ideas_website) - a home for bad ideas worth keeping
+- [bad_ideas_website](https://github.com/tomemme/bad_ideas_website) - a home for bad ideas to vanish
 - [web_server](https://github.com/tomemme/web_server) - Rust web server for a BTC vs AI power consumption graph
 - [followersLanguages](https://github.com/tomemme/followersLanguages) - graphing GitHub follower language usage
 - [followerTracker](https://github.com/tomemme/followerTracker) - GitHub follower cleanup tooling
